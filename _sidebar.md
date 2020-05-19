@@ -13,4 +13,4 @@
   - [concurrency](docs/concurrency.md)
   - [Utility Scripting and System Administration](docs/utility_scripting_system_administration.md)
   - [Testing, Debugging, and Exceptions](docs/testing_debugging_exceptions.md)
-  - [C Extensions](c_extensions.md)
+  - [C Extensions](docs/c_extensions.md)
